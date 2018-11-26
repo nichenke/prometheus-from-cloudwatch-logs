@@ -1,0 +1,7 @@
+*.pyc
+*.sw[po]
+*.tar
+*.egg-info
+.terraform/
+terraform/
+tests/
