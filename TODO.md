@@ -1,1 +1,1 @@
-* mypy type hints
+* https://github.com/amplify-education/serverless-log-forwarding
