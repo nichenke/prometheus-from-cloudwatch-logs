@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/nic/.local/share/virtualenvs/docker_cw_logs_prometheus-2AKmkx3z/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
