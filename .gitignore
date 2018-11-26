@@ -90,6 +90,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# pipenv - don't add lock when using multiple versions
+Pipfile.lock
+
 # Spyder project settings
 .spyderproject
 .spyproject
